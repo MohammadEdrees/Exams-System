@@ -1,0 +1,159 @@
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\Examination system.pdb
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.Form1.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.pdb
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\Programming\ITI\SQL Server\BI Project\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\Examination system.pdb
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\iti\sql prpject---------------\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.Form1.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.pdb
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination_system.MangeQuestion.resources
+D:\iti\sql prpject---------------\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\Programming\ITI\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Form1.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Login.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageChoice.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageStudentCourse.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeQuestion.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeStudent.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Student_Exam.resources
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.pdb
+D:\Programming\ITI\Examination system\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.pdb
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Login.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageChoice.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageStudentCourse.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeQuestion.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeStudent.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.pdb
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Index.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.GenerateExam.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Stduent_Exam.resources
+D:\Programming\ITI\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\Examination system.pdb
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Index.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.GenerateExam.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Login.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageChoice.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.ManageStudentCourse.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeQuestion.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.MangeStudent.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination_system.Stduent_Exam.resources
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\iti\sql prpject---------------\Last V\Examination system\Examination system\Examination system\obj\Debug\Examination system.pdb
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\Examination system.exe.config
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\Examination system.exe
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\Examination system.pdb
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\EntityFramework.dll
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\EntityFramework.xml
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.CourseShow.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.CourseUpdate.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.Index.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.CorseAdd.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.GenerateExam.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.Login.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.ManageChoice.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.manageCourseTopic.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.ManageDepartment.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructor.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.ManageInstructorCourse.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.ManageStudentCourse.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.MangeQuestion.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.MangeStudent.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination_system.Stduent_Exam.resources
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.exe
+D:\Programming\ITI\SQL Server\DB Project\last with agmad design\Examination system\Examination system\obj\Debug\Examination system.pdb
